@@ -15,7 +15,7 @@ const categoryMapping = {
     3: "Travel",
     4: "Family",
     5: "Finance"
-    // Diğer kategorileri buraya ekleyebilirsiniz
+   
 };
 
 const categoryPhrases = {
@@ -24,7 +24,7 @@ const categoryPhrases = {
     Travel: ["unexpected journeys", "exploring new cultures", "adventurous experiences"],
     Family: ["bonding moments with family", "supportive family dynamics", "joyful family events"],
     Finance: ["financial abundance", "wise investments", "sustainable wealth"],
-    // Diğer kategorilere ait ifadeleri buraya ekleyebilirsiniz
+   
 };
 
 const arrFactory = (arr1, arr2, arr3, category) => {
